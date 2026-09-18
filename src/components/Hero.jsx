@@ -24,11 +24,11 @@ export default function Hero() {
         </div>
 
         <h1>
-          Ihuuul chegou seu final de semana !!!
+          Chegou o final de semana mais esperado do ano, o dia da real virginiana !
         </h1>
 
         <p className="hero-sub">
-          O que temos de programação para o final de semana?
+          E o que teremos para o fim de semana??
           <br />
            30 da {config.nome}
         </p>
