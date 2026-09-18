@@ -24,13 +24,13 @@ export default function Hero() {
         </div>
 
         <h1>
-          Feliz aniversário,
-          <br />
-          {config.nome}
+          Ihuuul chegou seu final de semana !!!
         </h1>
 
         <p className="hero-sub">
-          O que você preparou pro seu grande fim de semana??? 30 da Sâmia !!
+          O que temos de programação para o final de semana?
+          <br />
+           30 da {config.nome}
         </p>
 
         <p className="contagem" aria-live="polite">
